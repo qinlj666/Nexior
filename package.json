@@ -113,6 +113,9 @@
   "bugs": {
     "url": "https://github.com/AceDataCloud/Nexior/issues"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "homepage": "https://github.com/AceDataCloud/Nexior#readme",
   "license": "MIT"
 }
